@@ -1,5 +1,4 @@
 {
-    "events": [
         {
             "name": "ACF Nationals",
             "date": "Sunday, April 20, 2025",
@@ -906,7 +905,65 @@
         "time": "5:30pm - 6:30pm EDT",
         "location": "80 Washington Square East, Ground Floor",
         "description": "A walk-through discussion on the intersections of activism and aesthetics, co-hosted by art and political science faculty."
-      }
-
-    ]
+      },
+  {
+    "name": "Papotons en français!",
+    "date": "Saturday, Apr 19 2025",
+    "time": "12:30pm - 1:30am",
+    "location": "Washington Square Campus"
+  },
+  {
+    "name": "Ethics Workshop Series",
+    "date": "Saturday, Apr 19 2025",
+    "time": "4:00pm - 6:00pm",
+    "location": "Washington Square Campus"
+  },
+  {
+    "name": "Papotons en français!",
+    "date": "Sunday, Apr 20 2025",
+    "time": "12:30pm - 1:30am",
+    "location": "Washington Square Campus"
+  },
+  {
+    "name": "Ethics Workshop Series",
+    "date": "Sunday, Apr 20 2025",
+    "time": "4:00pm - 6:00pm",
+    "location": "Washington Square Campus"
+  },
+  {
+    "name": "Papotons en français!",
+    "date": "Monday, Apr 21 2025",
+    "time": "12:30pm - 1:30am",
+    "location": "Washington Square Campus"
+  },
+  {
+    "name": "Ethics Workshop Series",
+    "date": "Monday, Apr 21 2025",
+    "time": "4:00pm - 6:00pm",
+    "location": "Washington Square Campus"
+  },
+  {
+    "name": "Papotons en français!",
+    "date": "Tuesday, Apr 22 2025",
+    "time": "12:30pm - 1:30am",
+    "location": "Washington Square Campus"
+  },
+  {
+    "name": "Ethics Workshop Series",
+    "date": "Tuesday, Apr 22 2025",
+    "time": "4:00pm - 6:00pm",
+    "location": "Washington Square Campus"
+  },
+  {
+    "name": "Papotons en français!",
+    "date": "Wednesday, Apr 23 2025",
+    "time": "12:30pm - 1:30am",
+    "location": "Washington Square Campus"
+  },
+  {
+    "name": "Ethics Workshop Series",
+    "date": "Wednesday, Apr 23 2025",
+    "time": "4:00pm - 6:00pm",
+    "location": "Washington Square Campus"
+  }
 }
