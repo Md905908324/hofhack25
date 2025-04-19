@@ -3,4 +3,4 @@ CampusSync is an intelligent event discovery platform built for college students
 
 Using natural language processing and generative AI, CampusSync enhances each event with mood-based summaries, intuitive tags, and vibe descriptions so browsing feels effortless and fun. Whether you’re looking to meet new people, try something new, or avoid missing out on campus happenings, our recommendation engine tailors suggestions just for you. No more digging through club emails or scattered listings—CampusSync makes it easy to turn free time into something memorable.
 
-This is made for HOF Hack 2025.
+This is made using Vercel and for HOF Hack 2025.
