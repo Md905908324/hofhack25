@@ -1,513 +1,515 @@
 {
-    {
-      "name": "Volunteer at Tompkins Distro w/ CAS ISC",
-      "date": "Saturday, April 19 at 9:00AM EDT",
-      "location": "Tompkins Square Park"
-    },
-    {
-      "name": "E Board Gathering Meeting",
-      "date": "Saturday, April 19 at 11:00AM EDT",
-      "location": "Online",
-      "organization": "International Students Club"
-    },
-    {
-      "name": "Taiwanese Student Association - All-University CPC with Rebecca Feldman",
-      "date": "Saturday, April 19 at 11:00AM EDT",
-      "location": "Online"
-    },
-    {
-      "name": "Peer Tutoring",
-      "date": "Saturday, April 19 at 11:00AM EDT",
-      "location": "CycleBar Noho"
-    },
-    {
-      "name": "Society for Women in Sports - All-University MTG Club Weekly Meeting",
-      "date": "Saturday, April 19 at 11:00AM EDT",
-      "location": "6 Metrotech Room 304"
-    },
-    {
-      "name": "The Gaming Collective @NYU",
-      "date": "Saturday, April 19 at 11:00AM EDT",
-      "location": "Pelham Bay Park"
-    },
-    {
-      "name": "Herps and Birds at Pelham Bay Park",
-      "date": "Saturday, April 19 at 11:00AM EDT",
-      "location": "Pelham Bay Park",
-      "organization": "Urban Naturalist Club at NYU - All-University"
-    },
-    {
-      "name": "Volunteer Earth Day Picnic",
-      "date": "Saturday, April 19 at 12:00PM EDT",
-      "location": "Sasaki Garden in Washington Square Village",
-      "organization": "Petey Greene Program - All-University"
-    },
-    {
-      "name": "Generasian Blog Bonding Meeting",
-      "date": "Saturday, April 19 at 1:00PM EDT",
-      "location": "Washington Square Park",
-      "organization": "Generasian - All-University"
-    },
-    {
-      "name": "Collaborative Service name: Washington Square Park Clean Up With SIA & LUL",
-      "date": "Saturday, April 19 at 1:00PM EDT",
-      "location": "Washington Square Park",
-      "organization": "Hosted by 3 organizations"
-    },
-    {
-      "name": "Mindfulness-Based Vinyasa Yoga with Hunt Parr",
-      "date": "Saturday, April 19 at 1:00PM EDT",
-      "location": "238 Thompson Street (GCASL), Room 461",
-      "organization": "Global Spiritual Life at NYU - Department"
-    },
-    {
-      "name": "CCNY x NYU AIChE: Central Park Picnic",
-      "date": "Saturday, April 19 at 11:00AM EDT",
-      "location": "Central Park",
-      "organization": "American Institute of Chemical Engineers"
-    },
-    {
-      "name": "JCA Sakura Undoukai",
-      "date": "Saturday, April 19 at 11:00AM EDT",
-      "location": "Central Park - East Pinetum",
-      "organization": "Japanese Cultural Association - All-University"
-    },
-    {
-      "name": "The New York Botanic Garden Trip",
-      "date": "Saturday, April 19 at 12:00PM EDT",
-      "location": "New York Botanical Garden",
-      "organization": "Community Agriculture Project - All-University"
-    },
-    {
-      "name": "Weekly Ballet Class",
-      "date": "Saturday, April 19 at 2:00PM EDT",
-      "location": "Kimmel 606",
-      "organization": "The Ballet Company - All-University"
-    },
-    {
-      "name": "CYC Professional Development name",
-      "date": "Saturday, April 19 at 3:00PM EDT",
-      "location": "GCASL 365",
-      "organization": "Consult Your Community at NYU - All-University"
-    },
-    {
-      "name": "Club Anime's Coscafe 2025",
-      "date": "Saturday, April 19 at 1:00PM EDT",
-      "location": "Eisner & Lubin Auditorium",
-      "organization": "Club Anime (Japanese animation) - All-University"
-    },
-    {
-      "name": "PsiU Chopped 2024",
-      "date": "Saturday, April 19 at 2:00PM EDT",
-      "location": "Stern KMC",
-      "organization": "Psi Upsilon - All-University"
-    },
-    {
-      "name": "Weekly Breaking Practice",
-      "date": "Saturday, April 19 at 6:00PM EDT",
-      "location": "Kimmel 606",
-      "organization": "Breakdance Club - All-University"
-    },
-    {
-      "name": "HOF Hacks - 24 hour hackathon with Vercel & Figma",
-      "date": "Friday, April 18 at 4:30PM EDT",
-      "location": "HOF Capital NYC HQ",
-      "organization": "Tech at NYU - All-University"
-    },
-    {
-      "name": "Dangerbox April Show",
-      "date": "Saturday, April 19 at 7:30PM EDT",
-      "location": "Kimmel Center Room 802",
-      "organization": "Dangerbox - All-University"
-    },
-    {
-      "name": "On Va Faire Comment? Sunset Soirée",
-      "date": "Saturday, April 19 at 4:00PM EDT",
-      "location": "Kimmel Center for University Life",
-      "organization": "Hosted by 3 organizations"
-    },
-    {
-      "name": "APDA Tournament Hosted by University of Virginia",
-      "date": "Friday, April 18 at 3:00PM EDT",
-      "location": "University of Virginia",
-      "organization": "Parliamentary Debaters Union - All-University"
-    },
-    {
-      "name": "SPS SBS x GSBS: New York Red Bulls Panel & Game",
-      "date": "Saturday, April 19 at 4:30PM EDT",
-      "location": "Sports Illustrated Stadium",
-      "organization": "SPS Graduate Sports Business Society"
-    },
-    {
-      "name": "APO - Pledge Initiation",
-      "date": "Sunday, April 20 at 1:30PM EDT",
-      "location": "GCASL 279",
-      "organization": "Alpha Phi Omega - National Service Fraternity - All-University"
-    },
-    {
-      "name": "Cleftomaniacs - weekly rehearsal",
-      "date": "Sunday, April 20 at 2:00PM EDT",
-      "location": "Kimmel 604",
-      "organization": "Cleftomaniacs (women a capella group) - All-University"
-    },
-    {
-      "name": "OGS x Violet Diabolo Workshop",
-      "date": "Sunday, April 20 at 2:00PM EDT",
-      "location": "Kimmel 606",
-      "organization": "Hosted by 2 organizations"
-    },
-    {
-      "name": "NYU aKDPhi Donut Fundraiser",
-      "date": "Sunday, April 20 at 12:00PM EDT",
-      "location": "Between Bobst and KMEC",
-      "organization": "Alpha Kappa Delta Phi - All-University"
-    },
-    {
-      "name": "Buddhism Club Half Day Retreat",
-      "date": "Sunday, April 20 at 10:00AM EDT",
-      "location": "Kimmel",
-      "organization": "Buddhism Club - All-University"
-    },
-    {
-      "name": "Chapter Meeting",
-      "date": "Sunday, April 20 at 4:00AM EDT",
-      "location": "Kimmel 905/907",
-      "organization": "Delta Gamma - All-University"
-    },
-    {
-      "name": "AFD Weekly Practice",
-      "date": "Sunday, April 20 at 5:00PM EDT",
-      "location": "KC 606 DANCE",
-      "organization": "Asian Fusion Dance - All-University"
-    },
-    {
-      "name": "Queer Union - Clothing Swap",
-      "date": "Monday, April 21 at 5:00PM EDT",
-      "location": "Kimmel Center 405",
-      "organization": "Queer Union - All-University"
-    },
-    {
-      "name": "Keep Calm! Eat an Oblea",
-      "date": "Tuesday, April 22 at 6:00PM EDT",
-      "location": "Kimmel 903",
-      "organization": "PorColombia - All-University"
-    },
-    {
-      "name": "Black Neurologists/Neurosurgeon Panel",
-      "date": "Tuesday, April 22 at 6:30PM EDT",
-      "location": "Meyer 636",
-      "organization": "Hosted by 2 organizations"
-    },
-    {
-      "name": "MktSoc Case Competition Finals",
-      "date": "Tuesday, April 22 at 6:30PM EDT",
-      "location": "KMEC 2-100",
-      "organization": "Marketing Society"
-    },
-    {
-      "name": "Election Information Session",
-      "date": "Tuesday, April 22 at 7:00PM EDT",
-      "location": "Online",
-      "organization": "National Student Speech Language and Hearing Association NYU Graduate Chapter"
-    },
-    {
-      "name": "CAS General Assembly",
-      "date": "Tuesday, April 22 at 7:00PM EDT",
-      "location": "25 West 4th St 2nd floor",
-      "organization": "CAS Student Council"
-    },
-    {
-      "name": "NSBE Elections",
-      "date": "Tuesday, April 22 at 5:30PM EDT",
-      "location": "370 Jay St. Rm. 1201",
-      "organization": "National Society of Black Engineers"
-    },
-    {
-      "name": "BSHA E-Board Elections",
-      "date": "Tuesday, April 22 at 6:30PM EDT",
-      "location": "Kimmel Center for University Life, Rm. 907",
-      "organization": "Black Student Health Association - All-University"
-    },
-    {
-      "name": "Shruti General Meetings",
-      "date": "Tuesday, April 22 at 7:30PM EDT",
-      "location": "GCASL 379",
-      "organization": "South Asian Students Association (SHRUTI) - All-University"
-    },
-    {
-      "name": "DG Sisterhood name",
-      "date": "Tuesday, April 22 at 6:00PM EDT",
-      "location": "Kimmel CTR 904",
-      "organization": "Delta Gamma - All-University"
-    },
-    {
-      "name": "\"My Sweet Land\" Film Screening",
-      "date": "Tuesday, April 22 at 6:45PM EDT",
-      "location": "GCASL C95",
-      "organization": "Armenian Students Association at NYU - All-University"
-    },
-    {
-      "name": "DIY Thrift Exchange with Depop",
-      "date": "Tuesday, April 22 at 7:00PM EDT",
-      "location": "Kimmel Room 802",
-      "organization": "NYU Program Board"
-    },
-    {
-      "name": "Quiz Bowl Discord Practice",
-      "date": "Tuesday, April 22 at 7:00PM EDT",
-      "location": "Online",
-      "organization": "Quiz Bowl at NYU - All-University"
-    },
-    {
-      "name": "Tuesday Night Small Group",
-      "date": "Tuesday, April 22 at 7:00PM EDT",
-      "location": "3Stone Church",
-      "organization": "Asian American Christian Fellowship - All-University"
-    },
-    {
-      "name": "WEEKLY GENERAL MEETING",
-      "date": "Tuesday, April 22 at 7:00PM EDT",
-      "location": "KC 905",
-      "organization": "Generasian - All-University"
-    },
-    {
-      "name": "Reset and Refresh with Amy Coombs",
-      "date": "Wednesday, April 23 at 9:30AM EDT",
-      "location": "238 Thompson Street (GCASL), Room 461",
-      "organization": "Global Spiritual Life at NYU - Department"
-    },
-    {
-      "name": "Core + Restore with Jennifer Brilliant",
-      "date": "Wednesday, April 23 at 12:30PM EDT",
-      "location": "238 Thompson Street (GCASL), Room 461",
-      "organization": "Global Spiritual Life at NYU - Department"
-    },
-    {
-      "name": "Buyside Recruiting Workshop",
-      "date": "Wednesday, April 23 at 12:30PM EDT",
-      "location": "T-200",
-      "organization": "Investment Analysis Group"
-    },
-    {
-      "name": "Deloitte Info Session",
-      "date": "Wednesday, April 23 at 12:30PM EDT",
-      "location": "LC-21",
-      "organization": "Actuarial Society"
-    },
-    {
-      "name": "Showcase: LARA x Kate Bartlett",
-      "date": "Wednesday, April 23 at 12:30PM EDT",
-      "location": "KMC 1-100 (Gardner Commons)",
-      "organization": "Luxury and Retail Association"
-    },
-    {
-      "name": "Spring 2025 Plant Based Food Festival!",
-      "date": "Wednesday, April 23 at 11:00AM EDT",
-      "location": "Kimmel Center-- Eisner and Lubin Auditorium (4th floor)",
-      "organization": "Animal Rights Collective - All-University"
-    },
-    {
-      "name": "Destress Before Finals",
-      "date": "Wednesday, April 23 at 12:00PM EDT",
-      "location": "StudentLink Center - Room C06",
-      "organization": "Office of Global Services"
-    },
-    {
-      "name": "Lunchtime Research Conversation Series: Timing Surgery After Heart Procedures: Risks & Outcomes",
-      "date": "Wednesday, April 23 at 2:00PM EDT",
-      "location": "Kimmel 703",
-      "organization": "NYU Graduate Student Life"
-    },
-    {
-      "name": "SPS SREC: Panel Discussion with Robert Verrone",
-      "date": "Wednesday, April 23 at 2:00PM EDT",
-      "location": "Kimmel Center",
-      "organization": "SPS Schack Real Estate Club"
-    },
-    {
-      "name": "Project Management for Social Good - Kleinert Scholarship Symposium 2025",
-      "date": "Wednesday, April 23 at 12:30PM EDT",
-      "location": "NYU SPS Building",
-      "organization": "Hosted by 2 organizations"
-    },
-    {
-      "name": "Brown Sugar Art Picnic",
-      "date": "Wednesday, April 23 at 3:00PM EDT",
-      "location": "Washington Square Park",
-      "organization": "Brown Sugar Brilliance - All-University"
-    },
-    {
-      "name": "RADical Health",
-      "date": "Wednesday, April 23 at 4:00PM EDT",
-      "location": "STC 107",
-      "organization": "NYU Student Wellbeing"
-    },
-    {
-      "name": "PRINT3D 3D Modeling 101",
-      "date": "Wednesday, April 23 at 4:00PM EDT",
-      "location": "Kimmel Center for University Life",
-      "organization": "PRINT3D @ NYU - All-University"
-    },
-    {
-      "name": "Arts Committee Meeting",
-      "date": "Wednesday, April 23 at 5:30PM EDT",
-      "location": "Kimmel Room 211",
-      "organization": "NYU Program Board"
-    },
-    {
-      "name": "PB Arts Meeting - Fashion Show Prep",
-      "date": "Wednesday, April 23 at 5:30PM EDT",
-      "location": "Kimmel Room 211",
-      "organization": "NYU Program Board"
-    },
-    {
-      "name": "Lectures Committee Meeting",
-      "date": "Wednesday, April 23 at 6:00PM EDT",
-      "location": "PB Lounge, Kimmel Center Room 211",
-      "organization": "NYU Program Board"
-    },
-    {
-      "name": "📢 Tandon GSC Spirit Week :Paint n Sip and Free merch giveaway 🎨🍷",
-      "date": "Wednesday, April 23 at 4:00PM EDT",
-      "location": "Makerspace FYOR",
-      "organization": "Graduate Student Council"
-    },
-    {
-      "name": "Discover Ekimetrics: Wasserman x NSBE x SHPE",
-      "date": "Wednesday, April 23 at 5:00PM EDT",
-      "location": "Wunsch Building Rm. 211, 311 Bridge St.",
-      "organization": "Hosted by 3 organizations"
-    }
-    {
-        "name": "Product Team Meeting",
-        "date": "Wednesday, April 23 at 5:00PM EDT",
-        "location": "Kimmel Center",
-        "host": "Product Management Club - All-University"
-    },
-    {
-        "name": "BMI Check-in",
-        "date": "Wednesday, April 23 at 5:00PM EDT",
-        "location": "KIMMEL CENTER FOR UNIVERSITY LIFE - KIMMEL CTR 406",
-        "host": "The Black Muslim Initiative at NYU - All-University"
-    },
-    {
-        "name": "WIBE Alumni Panel",
-        "date": "Wednesday, April 23 at 6:00PM EDT",
-        "location": "5MTC Rm 223.",
-        "host": "Women in Business and Entrepreneurship"
-    },
-    {
-        "name": "FemSoc Weekly Meeting",
-        "date": "Wednesday, April 23 at 6:00PM EDT",
-        "location": "GCastle 369",
-        "host": "The Feminist Society at NYU - All-University"
-    },
-    {
-        "name": "NYU Pre-Veterinary Society Welcome name!",
-        "date": "Wednesday, April 23 at 6:00PM EDT",
-        "location": "Silver Center for Arts and Science",
-        "host": "Pre-Veterinary Society"
-    },
-    {
-        "name": "Queer Union - Movie Night",
-        "date": "Wednesday, April 23 at 6:00PM EDT",
-        "location": "LGBTQ+ Center Lounge",
-        "host": "Queer Union - All-University"
-    },
-    {
-        "name": "Marketing and Media Committee Meeting",
-        "date": "Wednesday, April 23 at 6:30PM EDT",
-        "location": "PB Lounge",
-        "host": "NYU Program Board"
-    },
-    {
-        "name": "Fireside Chat with Susan Sawyer",
-        "date": "Wednesday, April 23 at 6:30PM EDT",
-        "location": "Kimmel Center, Room 907",
-        "host": "Undergraduate Law Society - All-University"
-    },
-    {
-        "name": "MDA Chapter Meeting",
-        "date": "Wednesday, April 23 at 6:30PM EDT",
-        "location": "Kimmel Center",
-        "host": "Mu Delta Alpha - All-University"
-    },
-    {
-        "name": "Content Creator Showcase",
-        "date": "Wednesday, April 23 at 6:30PM EDT",
-        "location": "Pless Hall",
-        "host": "Communications Club"
-    },
-    {
-        "name": "General Meeting",
-        "date": "Wednesday, April 23 at 5:45PM EDT",
-        "location": "Leslie E-Lab",
-        "host": "Economics Society - All-University"
-    },
-    {
-        "name": "TASS Night Market",
-        "date": "Wednesday, April 23 at 6:00PM EDT",
-        "location": "NYU Global Center for Academic and Spiritual Life Grand Hall",
-        "host": "Taiwanese American Student Society - All-University"
-    },
-    {
-        "name": "ASME Senior Farewell",
-        "date": "Wednesday, April 23 at 6:00PM EDT",
-        "location": "370 Jay St. Rm. 1201",
-        "host": "American Society of Mechanical Engineers"
-    },
-    {
-        "name": "Wednesday Bible Study",
-        "date": "Wednesday, April 23 at 6:30PM EDT",
-        "location": "Neighborhood Church",
-        "host": "Navigators (ecumenical) - All-University"
-    },
-    {
-        "name": "Muslim Voices for Social Justice",
-        "date": "Wednesday, April 23 at 7:00PM EDT",
-        "location": "Kimmel Center",
-        "host": "Hosted by 2 organizations"
-    },
-    {
-        "name": "ICC Elections for '25-26 Academic Year",
-        "date": "Wednesday, April 23 at 7:00PM EDT",
-        "location": "Online",
-        "host": "Indian Cultural Club - All-University"
-    },
-    {
-        "name": "Generation Meditation Weekly Sits - Rejuvenate",
-        "date": "Wednesday, April 23 at 7:00PM EDT",
-        "location": "NYU's Global Center for Academic and Spiritual Life",
-        "host": "Generation Meditation - All-University"
-    },
-    {
-        "name": "English Conversation Group Meeting",
-        "date": "Wednesday, April 23 at 7:15PM EDT",
-        "location": "GCASL 361",
-        "host": "Compass Koinonia - All-University"
-    },
-    {
-        "name": "Finding Purpose",
-        "date": "Wednesday, April 23 at 6:30PM EDT",
-        "location": "Kimmel CTR 908",
-        "host": "Lotus Lounge - All-University"
-    },
-    {
-        "name": "Weekly Writers Meeting",
-        "date": "Wednesday, April 23 at 6:30PM EDT",
-        "location": "Kimmel Center - Room 904",
-        "host": "Plague - All-University"
-    },
-    {
-        "name": "Orevwa Chérie!",
-        "date": "Wednesday, April 23 at 6:30PM EDT",
-        "location": "Kimmel 905",
-        "host": "Haitian American Students Association - All-University"
-    },
-    {
-        "name": "Cross-Examination Debate Association - General Meeting",
-        "date": "Wednesday, April 23 at 7:30PM EDT",
-        "location": "Global Center for Academic and Spiritual Life",
-        "host": "Cross-Examination Debate Association - All-University"
-    }  
+	"events": [
+  {
+    "name": "Volunteer at Tompkins Distro w/ CAS ISC",
+    "date": "Saturday, April 19 at 9:00AM EDT",
+    "location": "Tompkins Square Park"
+  },
+  {
+    "name": "E Board Gathering Meeting",
+    "date": "Saturday, April 19 at 11:00AM EDT",
+    "location": "Online",
+    "organization": "International Students Club"
+  },
+  {
+    "name": "Taiwanese Student Association - All-University CPC with Rebecca Feldman",
+    "date": "Saturday, April 19 at 11:00AM EDT",
+    "location": "Online"
+  },
+  {
+    "name": "Peer Tutoring",
+    "date": "Saturday, April 19 at 11:00AM EDT",
+    "location": "CycleBar Noho"
+  },
+  {
+    "name": "Society for Women in Sports - All-University MTG Club Weekly Meeting",
+    "date": "Saturday, April 19 at 11:00AM EDT",
+    "location": "6 Metrotech Room 304"
+  },
+  {
+    "name": "The Gaming Collective @NYU",
+    "date": "Saturday, April 19 at 11:00AM EDT",
+    "location": "Pelham Bay Park"
+  },
+  {
+    "name": "Herps and Birds at Pelham Bay Park",
+    "date": "Saturday, April 19 at 11:00AM EDT",
+    "location": "Pelham Bay Park",
+    "organization": "Urban Naturalist Club at NYU - All-University"
+  },
+  {
+    "name": "Volunteer Earth Day Picnic",
+    "date": "Saturday, April 19 at 12:00PM EDT",
+    "location": "Sasaki Garden in Washington Square Village",
+    "organization": "Petey Greene Program - All-University"
+  },
+  {
+    "name": "Generasian Blog Bonding Meeting",
+    "date": "Saturday, April 19 at 1:00PM EDT",
+    "location": "Washington Square Park",
+    "organization": "Generasian - All-University"
+  },
+  {
+    "name": "Collaborative Service name: Washington Square Park Clean Up With SIA & LUL",
+    "date": "Saturday, April 19 at 1:00PM EDT",
+    "location": "Washington Square Park",
+    "organization": "Hosted by 3 organizations"
+  },
+  {
+    "name": "Mindfulness-Based Vinyasa Yoga with Hunt Parr",
+    "date": "Saturday, April 19 at 1:00PM EDT",
+    "location": "238 Thompson Street (GCASL), Room 461",
+    "organization": "Global Spiritual Life at NYU - Department"
+  },
+  {
+    "name": "CCNY x NYU AIChE: Central Park Picnic",
+    "date": "Saturday, April 19 at 11:00AM EDT",
+    "location": "Central Park",
+    "organization": "American Institute of Chemical Engineers"
+  },
+  {
+    "name": "JCA Sakura Undoukai",
+    "date": "Saturday, April 19 at 11:00AM EDT",
+    "location": "Central Park - East Pinetum",
+    "organization": "Japanese Cultural Association - All-University"
+  },
+  {
+    "name": "The New York Botanic Garden Trip",
+    "date": "Saturday, April 19 at 12:00PM EDT",
+    "location": "New York Botanical Garden",
+    "organization": "Community Agriculture Project - All-University"
+  },
+  {
+    "name": "Weekly Ballet Class",
+    "date": "Saturday, April 19 at 2:00PM EDT",
+    "location": "Kimmel 606",
+    "organization": "The Ballet Company - All-University"
+  },
+  {
+    "name": "CYC Professional Development name",
+    "date": "Saturday, April 19 at 3:00PM EDT",
+    "location": "GCASL 365",
+    "organization": "Consult Your Community at NYU - All-University"
+  },
+  {
+    "name": "Club Anime's Coscafe 2025",
+    "date": "Saturday, April 19 at 1:00PM EDT",
+    "location": "Eisner & Lubin Auditorium",
+    "organization": "Club Anime (Japanese animation) - All-University"
+  },
+  {
+    "name": "PsiU Chopped 2024",
+    "date": "Saturday, April 19 at 2:00PM EDT",
+    "location": "Stern KMC",
+    "organization": "Psi Upsilon - All-University"
+  },
+  {
+    "name": "Weekly Breaking Practice",
+    "date": "Saturday, April 19 at 6:00PM EDT",
+    "location": "Kimmel 606",
+    "organization": "Breakdance Club - All-University"
+  },
+  {
+    "name": "HOF Hacks - 24 hour hackathon with Vercel & Figma",
+    "date": "Friday, April 18 at 4:30PM EDT",
+    "location": "HOF Capital NYC HQ",
+    "organization": "Tech at NYU - All-University"
+  },
+  {
+    "name": "Dangerbox April Show",
+    "date": "Saturday, April 19 at 7:30PM EDT",
+    "location": "Kimmel Center Room 802",
+    "organization": "Dangerbox - All-University"
+  },
+  {
+    "name": "On Va Faire Comment? Sunset Soirée",
+    "date": "Saturday, April 19 at 4:00PM EDT",
+    "location": "Kimmel Center for University Life",
+    "organization": "Hosted by 3 organizations"
+  },
+  {
+    "name": "APDA Tournament Hosted by University of Virginia",
+    "date": "Friday, April 18 at 3:00PM EDT",
+    "location": "University of Virginia",
+    "organization": "Parliamentary Debaters Union - All-University"
+  },
+  {
+    "name": "SPS SBS x GSBS: New York Red Bulls Panel & Game",
+    "date": "Saturday, April 19 at 4:30PM EDT",
+    "location": "Sports Illustrated Stadium",
+    "organization": "SPS Graduate Sports Business Society"
+  },
+  {
+    "name": "APO - Pledge Initiation",
+    "date": "Sunday, April 20 at 1:30PM EDT",
+    "location": "GCASL 279",
+    "organization": "Alpha Phi Omega - National Service Fraternity - All-University"
+  },
+  {
+    "name": "Cleftomaniacs - weekly rehearsal",
+    "date": "Sunday, April 20 at 2:00PM EDT",
+    "location": "Kimmel 604",
+    "organization": "Cleftomaniacs (women a capella group) - All-University"
+  },
+  {
+    "name": "OGS x Violet Diabolo Workshop",
+    "date": "Sunday, April 20 at 2:00PM EDT",
+    "location": "Kimmel 606",
+    "organization": "Hosted by 2 organizations"
+  },
+  {
+    "name": "NYU aKDPhi Donut Fundraiser",
+    "date": "Sunday, April 20 at 12:00PM EDT",
+    "location": "Between Bobst and KMEC",
+    "organization": "Alpha Kappa Delta Phi - All-University"
+  },
+  {
+    "name": "Buddhism Club Half Day Retreat",
+    "date": "Sunday, April 20 at 10:00AM EDT",
+    "location": "Kimmel",
+    "organization": "Buddhism Club - All-University"
+  },
+  {
+    "name": "Chapter Meeting",
+    "date": "Sunday, April 20 at 4:00AM EDT",
+    "location": "Kimmel 905/907",
+    "organization": "Delta Gamma - All-University"
+  },
+  {
+    "name": "AFD Weekly Practice",
+    "date": "Sunday, April 20 at 5:00PM EDT",
+    "location": "KC 606 DANCE",
+    "organization": "Asian Fusion Dance - All-University"
+  },
+  {
+    "name": "Queer Union - Clothing Swap",
+    "date": "Monday, April 21 at 5:00PM EDT",
+    "location": "Kimmel Center 405",
+    "organization": "Queer Union - All-University"
+  },
+  {
+    "name": "Keep Calm! Eat an Oblea",
+    "date": "Tuesday, April 22 at 6:00PM EDT",
+    "location": "Kimmel 903",
+    "organization": "PorColombia - All-University"
+  },
+  {
+    "name": "Black Neurologists/Neurosurgeon Panel",
+    "date": "Tuesday, April 22 at 6:30PM EDT",
+    "location": "Meyer 636",
+    "organization": "Hosted by 2 organizations"
+  },
+  {
+    "name": "MktSoc Case Competition Finals",
+    "date": "Tuesday, April 22 at 6:30PM EDT",
+    "location": "KMEC 2-100",
+    "organization": "Marketing Society"
+  },
+  {
+    "name": "Election Information Session",
+    "date": "Tuesday, April 22 at 7:00PM EDT",
+    "location": "Online",
+    "organization": "National Student Speech Language and Hearing Association NYU Graduate Chapter"
+  },
+  {
+    "name": "CAS General Assembly",
+    "date": "Tuesday, April 22 at 7:00PM EDT",
+    "location": "25 West 4th St 2nd floor",
+    "organization": "CAS Student Council"
+  },
+  {
+    "name": "NSBE Elections",
+    "date": "Tuesday, April 22 at 5:30PM EDT",
+    "location": "370 Jay St. Rm. 1201",
+    "organization": "National Society of Black Engineers"
+  },
+  {
+    "name": "BSHA E-Board Elections",
+    "date": "Tuesday, April 22 at 6:30PM EDT",
+    "location": "Kimmel Center for University Life, Rm. 907",
+    "organization": "Black Student Health Association - All-University"
+  },
+  {
+    "name": "Shruti General Meetings",
+    "date": "Tuesday, April 22 at 7:30PM EDT",
+    "location": "GCASL 379",
+    "organization": "South Asian Students Association (SHRUTI) - All-University"
+  },
+  {
+    "name": "DG Sisterhood name",
+    "date": "Tuesday, April 22 at 6:00PM EDT",
+    "location": "Kimmel CTR 904",
+    "organization": "Delta Gamma - All-University"
+  },
+  {
+    "name": "\"My Sweet Land\" Film Screening",
+    "date": "Tuesday, April 22 at 6:45PM EDT",
+    "location": "GCASL C95",
+    "organization": "Armenian Students Association at NYU - All-University"
+  },
+  {
+    "name": "DIY Thrift Exchange with Depop",
+    "date": "Tuesday, April 22 at 7:00PM EDT",
+    "location": "Kimmel Room 802",
+    "organization": "NYU Program Board"
+  },
+  {
+    "name": "Quiz Bowl Discord Practice",
+    "date": "Tuesday, April 22 at 7:00PM EDT",
+    "location": "Online",
+    "organization": "Quiz Bowl at NYU - All-University"
+  },
+  {
+    "name": "Tuesday Night Small Group",
+    "date": "Tuesday, April 22 at 7:00PM EDT",
+    "location": "3Stone Church",
+    "organization": "Asian American Christian Fellowship - All-University"
+  },
+  {
+    "name": "WEEKLY GENERAL MEETING",
+    "date": "Tuesday, April 22 at 7:00PM EDT",
+    "location": "KC 905",
+    "organization": "Generasian - All-University"
+  },
+  {
+    "name": "Reset and Refresh with Amy Coombs",
+    "date": "Wednesday, April 23 at 9:30AM EDT",
+    "location": "238 Thompson Street (GCASL), Room 461",
+    "organization": "Global Spiritual Life at NYU - Department"
+  },
+  {
+    "name": "Core + Restore with Jennifer Brilliant",
+    "date": "Wednesday, April 23 at 12:30PM EDT",
+    "location": "238 Thompson Street (GCASL), Room 461",
+    "organization": "Global Spiritual Life at NYU - Department"
+  },
+  {
+    "name": "Buyside Recruiting Workshop",
+    "date": "Wednesday, April 23 at 12:30PM EDT",
+    "location": "T-200",
+    "organization": "Investment Analysis Group"
+  },
+  {
+    "name": "Deloitte Info Session",
+    "date": "Wednesday, April 23 at 12:30PM EDT",
+    "location": "LC-21",
+    "organization": "Actuarial Society"
+  },
+  {
+    "name": "Showcase: LARA x Kate Bartlett",
+    "date": "Wednesday, April 23 at 12:30PM EDT",
+    "location": "KMC 1-100 (Gardner Commons)",
+    "organization": "Luxury and Retail Association"
+  },
+  {
+    "name": "Spring 2025 Plant Based Food Festival!",
+    "date": "Wednesday, April 23 at 11:00AM EDT",
+    "location": "Kimmel Center-- Eisner and Lubin Auditorium (4th floor)",
+    "organization": "Animal Rights Collective - All-University"
+  },
+  {
+    "name": "Destress Before Finals",
+    "date": "Wednesday, April 23 at 12:00PM EDT",
+    "location": "StudentLink Center - Room C06",
+    "organization": "Office of Global Services"
+  },
+  {
+    "name": "Lunchtime Research Conversation Series: Timing Surgery After Heart Procedures: Risks & Outcomes",
+    "date": "Wednesday, April 23 at 2:00PM EDT",
+    "location": "Kimmel 703",
+    "organization": "NYU Graduate Student Life"
+  },
+  {
+    "name": "SPS SREC: Panel Discussion with Robert Verrone",
+    "date": "Wednesday, April 23 at 2:00PM EDT",
+    "location": "Kimmel Center",
+    "organization": "SPS Schack Real Estate Club"
+  },
+  {
+    "name": "Project Management for Social Good - Kleinert Scholarship Symposium 2025",
+    "date": "Wednesday, April 23 at 12:30PM EDT",
+    "location": "NYU SPS Building",
+    "organization": "Hosted by 2 organizations"
+  },
+  {
+    "name": "Brown Sugar Art Picnic",
+    "date": "Wednesday, April 23 at 3:00PM EDT",
+    "location": "Washington Square Park",
+    "organization": "Brown Sugar Brilliance - All-University"
+  },
+  {
+    "name": "RADical Health",
+    "date": "Wednesday, April 23 at 4:00PM EDT",
+    "location": "STC 107",
+    "organization": "NYU Student Wellbeing"
+  },
+  {
+    "name": "PRINT3D 3D Modeling 101",
+    "date": "Wednesday, April 23 at 4:00PM EDT",
+    "location": "Kimmel Center for University Life",
+    "organization": "PRINT3D @ NYU - All-University"
+  },
+  {
+    "name": "Arts Committee Meeting",
+    "date": "Wednesday, April 23 at 5:30PM EDT",
+    "location": "Kimmel Room 211",
+    "organization": "NYU Program Board"
+  },
+  {
+    "name": "PB Arts Meeting - Fashion Show Prep",
+    "date": "Wednesday, April 23 at 5:30PM EDT",
+    "location": "Kimmel Room 211",
+    "organization": "NYU Program Board"
+  },
+  {
+    "name": "Lectures Committee Meeting",
+    "date": "Wednesday, April 23 at 6:00PM EDT",
+    "location": "PB Lounge, Kimmel Center Room 211",
+    "organization": "NYU Program Board"
+  },
+  {
+    "name": "📢 Tandon GSC Spirit Week :Paint n Sip and Free merch giveaway 🎨🍷",
+    "date": "Wednesday, April 23 at 4:00PM EDT",
+    "location": "Makerspace FYOR",
+    "organization": "Graduate Student Council"
+  },
+  {
+    "name": "Discover Ekimetrics: Wasserman x NSBE x SHPE",
+    "date": "Wednesday, April 23 at 5:00PM EDT",
+    "location": "Wunsch Building Rm. 211, 311 Bridge St.",
+    "organization": "Hosted by 3 organizations"
+  },
+	{
+    "name": "Product Team Meeting",
+    "date": "Wednesday, April 23 at 5:00PM EDT",
+    "location": "Kimmel Center",
+    "host": "Product Management Club - All-University"
+  },
+  {
+    "name": "BMI Check-in",
+    "date": "Wednesday, April 23 at 5:00PM EDT",
+    "location": "KIMMEL CENTER FOR UNIVERSITY LIFE - KIMMEL CTR 406",
+    "host": "The Black Muslim Initiative at NYU - All-University"
+  },
+  {
+    "name": "WIBE Alumni Panel",
+    "date": "Wednesday, April 23 at 6:00PM EDT",
+    "location": "5MTC Rm 223.",
+    "host": "Women in Business and Entrepreneurship"
+  },
+  {
+    "name": "FemSoc Weekly Meeting",
+    "date": "Wednesday, April 23 at 6:00PM EDT",
+    "location": "GCastle 369",
+    "host": "The Feminist Society at NYU - All-University"
+  },
+  {
+    "name": "NYU Pre-Veterinary Society Welcome name!",
+    "date": "Wednesday, April 23 at 6:00PM EDT",
+    "location": "Silver Center for Arts and Science",
+    "host": "Pre-Veterinary Society"
+  },
+  {
+    "name": "Queer Union - Movie Night",
+    "date": "Wednesday, April 23 at 6:00PM EDT",
+    "location": "LGBTQ+ Center Lounge",
+    "host": "Queer Union - All-University"
+  },
+  {
+    "name": "Marketing and Media Committee Meeting",
+    "date": "Wednesday, April 23 at 6:30PM EDT",
+    "location": "PB Lounge",
+    "host": "NYU Program Board"
+  },
+  {
+    "name": "Fireside Chat with Susan Sawyer",
+    "date": "Wednesday, April 23 at 6:30PM EDT",
+    "location": "Kimmel Center, Room 907",
+    "host": "Undergraduate Law Society - All-University"
+  },
+  {
+    "name": "MDA Chapter Meeting",
+    "date": "Wednesday, April 23 at 6:30PM EDT",
+    "location": "Kimmel Center",
+    "host": "Mu Delta Alpha - All-University"
+  },
+  {
+    "name": "Content Creator Showcase",
+    "date": "Wednesday, April 23 at 6:30PM EDT",
+    "location": "Pless Hall",
+    "host": "Communications Club"
+  },
+  {
+    "name": "General Meeting",
+    "date": "Wednesday, April 23 at 5:45PM EDT",
+    "location": "Leslie E-Lab",
+    "host": "Economics Society - All-University"
+  },
+  {
+    "name": "TASS Night Market",
+    "date": "Wednesday, April 23 at 6:00PM EDT",
+    "location": "NYU Global Center for Academic and Spiritual Life Grand Hall",
+    "host": "Taiwanese American Student Society - All-University"
+  },
+  {
+    "name": "ASME Senior Farewell",
+    "date": "Wednesday, April 23 at 6:00PM EDT",
+    "location": "370 Jay St. Rm. 1201",
+    "host": "American Society of Mechanical Engineers"
+  },
+  {
+    "name": "Wednesday Bible Study",
+    "date": "Wednesday, April 23 at 6:30PM EDT",
+    "location": "Neighborhood Church",
+    "host": "Navigators (ecumenical) - All-University"
+  },
+  {
+    "name": "Muslim Voices for Social Justice",
+    "date": "Wednesday, April 23 at 7:00PM EDT",
+    "location": "Kimmel Center",
+    "host": "Hosted by 2 organizations"
+  },
+  {
+    "name": "ICC Elections for '25-26 Academic Year",
+    "date": "Wednesday, April 23 at 7:00PM EDT",
+    "location": "Online",
+    "host": "Indian Cultural Club - All-University"
+  },
+  {
+    "name": "Generation Meditation Weekly Sits - Rejuvenate",
+    "date": "Wednesday, April 23 at 7:00PM EDT",
+    "location": "NYU's Global Center for Academic and Spiritual Life",
+    "host": "Generation Meditation - All-University"
+  },
+  {
+    "name": "English Conversation Group Meeting",
+    "date": "Wednesday, April 23 at 7:15PM EDT",
+    "location": "GCASL 361",
+    "host": "Compass Koinonia - All-University"
+  },
+  {
+    "name": "Finding Purpose",
+    "date": "Wednesday, April 23 at 6:30PM EDT",
+    "location": "Kimmel CTR 908",
+    "host": "Lotus Lounge - All-University"
+  },
+  {
+    "name": "Weekly Writers Meeting",
+    "date": "Wednesday, April 23 at 6:30PM EDT",
+    "location": "Kimmel Center - Room 904",
+    "host": "Plague - All-University"
+  },
+  {
+    "name": "Orevwa Chérie!",
+    "date": "Wednesday, April 23 at 6:30PM EDT",
+    "location": "Kimmel 905",
+    "host": "Haitian American Students Association - All-University"
+  },
+  {
+    "name": "Cross-Examination Debate Association - General Meeting",
+    "date": "Wednesday, April 23 at 7:30PM EDT",
+    "location": "Global Center for Academic and Spiritual Life",
+    "host": "Cross-Examination Debate Association - All-University"
+  }
+	]
 }
