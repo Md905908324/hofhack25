@@ -9,7 +9,7 @@ app.use(express.json());
 
 // app.use("/api", calendarRoutes);
 mongoose
-  .connect("mongodb://localhost:27017/admin", {
+  .connect("mongodb://shivasb42@10.20.48.123:27017/admin", {
     useNewUrlParser: true,
     useUnifiedTopology: true,
   })
