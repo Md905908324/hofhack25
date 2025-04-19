@@ -1,0 +1,603 @@
+{
+    "events": [
+        {
+            "name": "ACF Nationals",
+            "date": "Sunday, April 20, 2025",
+            "time": "All Day",
+            "location": "University of Maryland"
+        },
+        {
+            "name": "AMC Virtual Diaper Drive",
+            "date": "Sunday, April 20, 2025",
+            "time": "All Day",
+            "location": "Benefitting Little Essentials"
+        },
+        {
+            "name": "Bridge and Spades Meeting & Eboard Election",
+            "date": "Sunday, April 20, 2025",
+            "time": "All Day",
+            "location": "Kimmel 802 Shoren"
+        },
+        {
+            "name": "Bridges Mentorship Program",
+            "date": "Sunday, April 20, 2025",
+            "time": "All Day",
+            "location": "Kimmel Rm 375"
+        },
+        {
+            "name": "CBL Doodles; Tea and Joe’s Pizza",
+            "date": "Sunday, April 20, 2025",
+            "time": "All Day",
+            "location": "GLOBAL CTR (Kimmel) - GC 361"
+        },
+        {
+            "name": "Intermediate Choreography Lessons",
+            "date": "Sunday, April 20, 2025",
+            "time": "All Day",
+            "location": "Pearl Studios"
+        },
+        {
+            "name": "NYWEA x CUE Earth Day Event",
+            "date": "Sunday, April 20, 2025",
+            "time": "All Day",
+            "location": "Civil and Urban Engineering Department Pantry Area"
+        },
+        {
+            "name": "Politics Society E-Board Elections – Final Event of the Year",
+            "date": "Sunday, April 20, 2025",
+            "time": "All Day",
+            "location": "Helen and Kimmel Center for University Life"
+        },
+        {
+            "name": "Spring 2025",
+            "date": "Sunday, April 20, 2025",
+            "time": "All Day",
+            "location": "NYU Shanghai New Bund Campus"
+        },
+        {
+            "name": "Spring 25 Coffee Chats with BLS",
+            "date": "Sunday, April 20, 2025",
+            "time": "All Day",
+            "location": "Peet’s Coffee - Kimmel Center"
+        },
+        {
+            "name": "This exhibition features a new English translation of Note sur la suppression générale des partis politiques (1943) by French philosopher and activist Simone Weil",
+            "date": "Sunday, April 20, 2025",
+            "time": "All Day",
+            "location": "80 Washington Square East, NYC"
+        },
+        {
+            "name": "Violet Fit: Open Training",
+            "date": "Sunday, April 20, 2025",
+            "time": "All Day",
+            "location": "Palladium Athletic Facility - Performance Center"
+        },
+        {
+            "name": "Violet-Fit: Kettlebell Training",
+            "date": "Sunday, April 20, 2025",
+            "time": "All Day",
+            "location": "Palladium Athletic Facility - Performance Center"
+        },
+        {
+            "name": "Violet-Fit: Powerlifting Basics",
+            "date": "Sunday, April 20, 2025",
+            "time": "All Day",
+            "location": "Palladium Athletic Facility - Performance Center"
+        },
+        {
+            "name": "VioletFit: Intro to Weightlifting",
+            "date": "Sunday, April 20, 2025",
+            "time": "All Day",
+            "location": "404 Fitness - Dance Studio"
+        },
+        {
+            "name": "VioletFit: Intro to Weightlifting",
+            "date": "Sunday, April 20, 2025",
+            "time": "All Day",
+            "location": "Palladium Athletic Facility"
+        },
+        {
+            "name": "Chapter Meeting",
+            "date": "Sunday, April 20, 2025",
+            "time": "4:00am - 7:00pm EDT",
+            "location": "Kimmel 905/907"
+        },
+        {
+            "name": "New York University Men’s Golf vs Farmingdale State College Spring Invitational - Round 2",
+            "date": "Sunday, April 20, 2025",
+            "time": "9:00am - 12:00pm EDT",
+            "location": "Bethpage, NY"
+        },
+        {
+            "name": "Buddhism Club Half Day Retreat",
+            "date": "Sunday, April 20, 2025",
+            "time": "10:00am - 6:00pm EDT",
+            "location": "Kimmel"
+        },
+        {
+            "name": "Discover NY: Intrepid Museum",
+            "date": "Sunday, April 20, 2025",
+            "time": "10:30am - 2:30pm EDT",
+            "location": "Intrepid Museum"
+        },
+        {
+            "name": "New York University Baseball at Case Western Reserve University",
+            "date": "Sunday, April 20, 2025",
+            "time": "11:00am - 2:00pm EDT",
+            "location": "Cleveland, Ohio"
+        },
+        {
+            "name": "NYU aKDPhi Donut Fundraiser",
+            "date": "Sunday, April 20, 2025",
+            "time": "12:00pm - 5:00pm EDT",
+            "location": "Between Bobst and KMEC"
+        },
+        {
+            "name": "APO - Pledge Initiation",
+            "date": "Sunday, April 20, 2025",
+            "time": "1:30pm - 3:00pm EDT",
+            "location": "GCASL 279"
+        },
+        {
+            "name": "Cleftomaniacs - weekly rehearsal",
+            "date": "Sunday, April 20, 2025",
+            "time": "2:00pm - 3:00pm EDT",
+            "location": "Kimmel 604"
+        },
+        {
+            "name": "OGS x Violet Diabolo Workshop",
+            "date": "Sunday, April 20, 2025",
+            "time": "2:00pm - 4:00pm EDT",
+            "location": "Kimmel 606"
+        },
+        {
+            "name": "Chinese Yo-yo Workshop",
+            "date": "Sunday, April 20, 2025",
+            "time": "2:00pm - 4:00pm EDT",
+            "location": "Kimmel Center"
+        },
+        {
+            "name": "AFD Weekly Practice",
+            "date": "Sunday, April 20, 2025",
+            "time": "5:00pm - 7:00pm EDT",
+            "location": "KC 606 DANCE"
+        },
+        {
+            "name": "SIX The Musical",
+            "date": "Sunday, April 20, 2025",
+            "time": "7:00pm - 8:30pm EDT",
+            "location": "TBD"
+        }
+        {
+          "name": "AMC Virtual Diaper Drive",
+          "date": "Monday, April 21, 2025",
+          "time": "All Day",
+          "description": "Benefitting Little Essentials, a non-profit that serves low income families in all five NYC boroughs by partnering with Social Services, Children’s Services, hospitals, domestic violence shelters, NYCHA, temporary shelters, and more."
+        },
+        {
+          "name": "Bridge and Spades Meeting & Eboard Election",
+          "date": "Monday, April 21, 2025",
+          "time": "All Day",
+          "location": "Kimmel 802 Shoren"
+        },
+        {
+          "name": "Bridges Mentorship Program",
+          "date": "Monday, April 21, 2025",
+          "time": "All Day",
+          "location": "Kimmel Rm 375"
+        },
+        {
+          "name": "CBL Doodles; Tea and Joe’s Pizza",
+          "date": "Monday, April 21, 2025",
+          "time": "All Day",
+          "location": "GLOBAL CTR (Kimmel) - GC 361"
+        },
+        {
+          "name": "Fall 2025 Registration Begins",
+          "date": "Monday, April 21, 2025",
+          "time": "All Day",
+          "description": "Undergraduate and graduate students register at specific appointment times."
+        },
+        {
+          "name": "Graduate Portrait Sessions",
+          "date": "Monday, April 21, 2025",
+          "time": "All Day",
+          "location": "The Jeffrey S. Gould Welcome Center"
+        },
+        {
+          "name": "Intermediate Choreography Lessons",
+          "date": "Monday, April 21, 2025",
+          "time": "All Day",
+          "location": "Pearl Studios"
+        },
+        {
+          "name": "NYWEA x CUE Earth Day Event",
+          "date": "Monday, April 21, 2025",
+          "time": "All Day",
+          "location": "Civil and Urban Engineering Department Pantry Area"
+        },
+        {
+          "name": "Politics Society E-Board Elections – Final Event of the Year",
+          "date": "Monday, April 21, 2025",
+          "time": "All Day",
+          "location": "Helen and Kimmel Center for University Life"
+        },
+        {
+          "name": "Spring 2025",
+          "date": "Monday, April 21, 2025",
+          "time": "All Day",
+          "location": "NYU Shanghai New Bund Campus"
+        },
+        {
+          "name": "Spring 25 Coffee Chats with BLS",
+          "date": "Monday, April 21, 2025",
+          "time": "All Day",
+          "location": "Peet’s Coffee - Kimmel Center"
+        },
+        {
+          "name": "Exhibition on Simone Weil's Note sur la suppression générale des partis politiques",
+          "date": "Monday, April 21, 2025",
+          "time": "All Day",
+          "location": "80 Washington Square East, NYC"
+        },
+        {
+          "name": "Violet Fit: Open Training",
+          "date": "Monday, April 21, 2025",
+          "time": "All Day",
+          "location": "Palladium Athletic Facility - Performance Center"
+        },
+        {
+          "name": "Environmental Justice Colloquium: Film Screening of Plastic China",
+          "date": "Monday, April 21, 2025",
+          "time": "15:00 - 18:00 CST",
+          "location": "N107"
+        },
+        {
+          "name": "Pitch Day 2025",
+          "date": "Monday, April 21, 2025",
+          "time": "2:00pm - 5:00pm EDT",
+          "location": "Google HQ (76 9th Avenue New York, NY 10011)"
+        },
+        {
+          "name": "Women in Consulting Panel",
+          "date": "Monday, April 21, 2025",
+          "time": "12:30pm - 1:30pm EDT",
+          "location": "UC-25"
+        },
+        {
+          "name": "SHRM Resume Workshop Series",
+          "date": "Monday, April 21, 2025",
+          "time": "12:00pm - 1:30pm EDT",
+          "location": "Online"
+        },
+        {
+          "name": "Spirit Week: Merch Pickup + Decorating",
+          "date": "Monday, April 21, 2025",
+          "time": "12:00pm - 2:30pm EDT",
+          "location": "Dibner Arcade (outside in the Commons)"
+        },
+        {
+          "name": "Climate Change Film Festival",
+          "date": "Monday, April 21, 2025",
+          "time": "12:00pm - 6:30pm EDT",
+          "location": "Kimmel Center for University Life"
+        },
+        {
+          "name": "DFA x AUSA - Design Research Workshop",
+          "date": "Monday, April 21, 2025",
+          "time": "5:30pm - 7:00pm EDT",
+          "location": "5MTC Rm. 223"
+        },
+        {
+          "name": "Senior Week: Life Beyond the Square Resource Fair",
+          "date": "Monday, April 21, 2025",
+          "time": "6:00pm - 8:00pm EDT",
+          "location": "Kimmel Center for University Life"
+        },
+        {
+          "name": "Election Day",
+          "date": "Monday, April 21, 2025",
+          "time": "6:00pm - 8:00pm EDT"
+        }
+        {
+          "name": "Decoding Hindustani Music: Art and Science",
+          "date": "Tuesday, April 22, 2025",
+          "time": "4:30pm - 6:00pm EDT",
+          "location": "19 Washington Square North"
+        },
+        {
+          "name": "The Human Rights Council: Between Law and Politics in a Changing International Environment",
+          "date": "Tuesday, April 22, 2025",
+          "time": "6:00pm - 7:30pm EDT",
+          "location": ""
+        },
+        {
+          "name": "AMC Virtual Diaper Drive",
+          "date": "Tuesday, April 22, 2025",
+          "time": "All Day",
+          "location": ""
+        },
+        {
+          "name": "Bridge and Spades Meeting & Eboard Election",
+          "date": "Tuesday, April 22, 2025",
+          "time": "All Day",
+          "location": "Kimmel 802 Shoren"
+        },
+        {
+          "name": "Bridges Mentorship Program",
+          "date": "Tuesday, April 22, 2025",
+          "time": "All Day",
+          "location": "Kimmel Rm 375"
+        },
+        {
+          "name": "CBL Doodles; Tea and Joe’s Pizza",
+          "date": "Tuesday, April 22, 2025",
+          "time": "All Day",
+          "location": "GLOBAL CTR (Kimmel) - GC 361"
+        },
+        {
+          "name": "Intermediate Choreography Lessons",
+          "date": "Tuesday, April 22, 2025",
+          "time": "All Day",
+          "location": "Pearl Studios"
+        },
+        {
+          "name": "NYWEA x CUE Earth Day Event",
+          "date": "Tuesday, April 22, 2025",
+          "time": "All Day",
+          "location": "Civil and Urban Engineering Department Pantry Area"
+        },
+        {
+          "name": "Queer Union - Clothing Swap",
+          "date": "Tuesday, April 22, 2025",
+          "time": "All Day",
+          "location": "Kimmel Center 405"
+        },
+        {
+          "name": "Spring 2025",
+          "date": "Tuesday, April 22, 2025",
+          "time": "All Day",
+          "location": "NYU Shanghai New Bund Campus"
+        },
+        {
+          "name": "VioletFit: Intro to Weightlifting",
+          "date": "Tuesday, April 22, 2025",
+          "time": "All Day",
+          "location": "404 Fitness - Dance Studio"
+        },
+        {
+          "name": "Precision Psychiatry for PTSD and Alcohol Use Disorder: From Biomarkers to Resilience",
+          "date": "Tuesday, April 22, 2025",
+          "time": "11:00am EDT",
+          "location": "2 Metrotech Center, Room 911, Brooklyn, NY 11201"
+        },
+        {
+          "name": "Atmosphere Ocean Science Colloquium: A multi-scale, multi-layer theory for tropical cyclone intensification",
+          "date": "Tuesday, April 22, 2025",
+          "time": "11:00am EDT",
+          "location": "Warren Weaver Hall"
+        },
+        {
+          "name": "William N. Rom Climate Change & Health Fellowship Presentation",
+          "date": "Tuesday, April 22, 2025",
+          "time": "11:00am - 12:00pm EDT",
+          "location": "708 Broadway, Room 801 | Online"
+        },
+        {
+          "name": "Earth Day Books & Bites",
+          "date": "Tuesday, April 22, 2025",
+          "time": "11:00am - 1:00pm EDT",
+          "location": "NYU Changemaker Centre"
+        },
+        {
+          "name": "Yoga - On- campus",
+          "date": "Tuesday, April 22, 2025",
+          "time": "18:30 CEST (12:30pm EDT)",
+          "location": "NYU Florence - Villa Colletta"
+        },
+        {
+          "name": "So What’s the Deal with DEI?",
+          "date": "Tuesday, April 22, 2025",
+          "time": "4:00pm - 5:30pm EDT",
+          "location": "Student Event Space B - 274, 105 East 17th Street"
+        },
+        {
+          "name": "Undergrad Consulting Recruiting 101",
+          "date": "Tuesday, April 22, 2025",
+          "time": "4:00pm - 6:00pm EDT",
+          "location": "2MTC Rm. 1054"
+        },
+        {
+          "name": "Post-Easter Mixer",
+          "date": "Tuesday, April 22, 2025",
+          "time": "4:00pm - 6:00pm EDT",
+          "location": "Kimmel Center 909"
+        },
+        {
+          "name": "Nail Night In",
+          "date": "Tuesday, April 22, 2025",
+          "time": "4:00pm - 6:00pm EDT",
+          "location": "5 mtc L223"
+        }
+        {
+          "name": "AMC Virtual Diaper Drive",
+          "date": "Wednesday, April 23, 2025",
+          "time": "All Day",
+          "location": "Virtual"
+        },
+        {
+          "name": "Bridge and Spades Meeting & Eboard Election",
+          "date": "Wednesday, April 23, 2025",
+          "time": "All Day",
+          "location": "Kimmel 802 Shoren"
+        },
+        {
+          "name": "Bridges Mentorship Program",
+          "date": "Wednesday, April 23, 2025",
+          "time": "All Day",
+          "location": "Kimmel Rm 375"
+        },
+        {
+          "name": "CBL Doodles; Tea and Joe’s Pizza",
+          "date": "Wednesday, April 23, 2025",
+          "time": "All Day",
+          "location": "GLOBAL CTR (Kimmel) - GC 361"
+        },
+        {
+          "name": "Intermediate Choreography Lessons",
+          "date": "Wednesday, April 23, 2025",
+          "time": "All Day",
+          "location": "Pearl Studios"
+        },
+        {
+          "name": "NYWEA x CUE Earth Day Event",
+          "date": "Wednesday, April 23, 2025",
+          "time": "All Day",
+          "location": "Civil and Urban Engineering Department Pantry Area"
+        },
+        {
+          "name": "Spring 2025",
+          "date": "Wednesday, April 23, 2025",
+          "time": "All Day",
+          "location": "NYU Shanghai New Bund Campus"
+        },
+        {
+          "name": "Spring 25 Coffee Chats with BLS",
+          "date": "Wednesday, April 23, 2025",
+          "time": "All Day",
+          "location": "Peet’s Coffee - Kimmel Center"
+        },
+        {
+          "name": "SPS SCRIBE: Banned Book Drive",
+          "date": "Wednesday, April 23, 2025",
+          "time": "All Day",
+          "location": "Midtown Building (20 W 43rd St.) & SPS Building"
+        },
+        {
+          "name": "Exhibition on Simone Weil",
+          "date": "Wednesday, April 23, 2025",
+          "time": "All Day",
+          "location": "80 Washington Square East, NYC"
+        },
+        {
+          "name": "Violet Fit: Open Training",
+          "date": "Wednesday, April 23, 2025",
+          "time": "All Day",
+          "location": "Palladium Athletic Facility - Performance Center"
+        },
+        {
+          "name": "Violet-Fit: Kettlebell Training",
+          "date": "Wednesday, April 23, 2025",
+          "time": "All Day",
+          "location": "Palladium Athletic Facility - Performance Center"
+        },
+        {
+          "name": "Violet-Fit: Powerlifting Basics",
+          "date": "Wednesday, April 23, 2025",
+          "time": "All Day",
+          "location": "Palladium Athletic Facility - Performance Center"
+        },
+        {
+          "name": "VioletFit: Intro to Weightlifting",
+          "date": "Wednesday, April 23, 2025",
+          "time": "All Day",
+          "location": "404 Fitness - Dance Studio"
+        },
+        {
+          "name": "Reset and Refresh with Amy Coombs",
+          "date": "Wednesday, April 23, 2025",
+          "time": "9:30am - 10:30am EDT",
+          "location": "238 Thompson Street (GCASL), Room 461"
+        },
+        {
+          "name": "Introduction to Privacy Impact Assessments (PIAs) at NYU",
+          "date": "Wednesday, April 23, 2025",
+          "time": "10:00am - 10:45am EDT",
+          "location": "Zoom"
+        },
+        {
+          "name": "Multimedia Drop-in Sessions",
+          "date": "Wednesday, April 23, 2025",
+          "time": "10:00am - 11:00am EDT",
+          "location": "Virtual"
+        },
+        {
+          "name": "Intro Lab Safety Training: Zoom",
+          "date": "Wednesday, April 23, 2025",
+          "time": "10:00am - 1:00pm EDT",
+          "location": "Zoom"
+        },
+        {
+          "name": "DPI 2025 BFA Senior Thesis Exhibition, Curated by Kalia Brooks",
+          "date": "Wednesday, April 23, 2025",
+          "time": "10:00am - 6:00pm EDT Weekly (to May 17)",
+          "location": "721 Broadway, Gulf Western Galleries in Tisch Lobby"
+        },
+        {
+          "name": "Finalizing the Gradebook in NYU Brightspace",
+          "date": "Wednesday, April 23, 2025",
+          "time": "11:00am EDT",
+          "location": "Online"
+        },
+        {
+          "name": "Instructional Tech Drop-in Sessions",
+          "date": "Wednesday, April 23, 2025",
+          "time": "11:00am - 1:00pm EDT",
+          "location": "Virtual"
+        },
+        {
+          "name": "Plant Based Food Festival Spring 2025",
+          "date": "Wednesday, April 23, 2025",
+          "time": "11:00am - 2:00pm EDT",
+          "location": "Kimmel Center for University Life"
+        },
+        {
+          "name": "Spring 2025 Plant Based Food Festival!",
+          "date": "Wednesday, April 23, 2025",
+          "time": "11:00am - 2:00pm EDT",
+          "location": "Kimmel Center– Eisner and Lubin Auditorium (4th floor)"
+        },
+        {
+          "name": "Harold Acton and the Twenties",
+          "date": "Wednesday, April 23, 2025",
+          "time": "18:00 CEST (12:00pm EDT)",
+          "location": "NYU Florence - Villa La Pietra"
+        },
+        {
+          "name": "Destress Before Finals",
+          "date": "Wednesday, April 23, 2025",
+          "time": "12:00pm - 2:00pm EDT",
+          "location": "StudentLink Center - Room C06"
+        },
+        {
+          "name": "Data Drop-Ins: R",
+          "date": "Wednesday, April 23, 2025",
+          "time": "12:00pm - 3:00pm EDT",
+          "location": "Bobst Library, 6th Floor, Rm. 617, Bobst Library"
+        },
+        {
+          "name": "Core + Restore with Jennifer Brilliant",
+          "date": "Wednesday, April 23, 2025",
+          "time": "12:30pm - 1:30pm EDT",
+          "location": "238 Thompson Street (GCASL), Room 461"
+        },
+        {
+          "name": "Buyside Recruiting Workshop",
+          "date": "Wednesday, April 23, 2025",
+          "time": "12:30pm - 1:30pm EDT",
+          "location": "T-200"
+        },
+        {
+          "name": "Deloitte Info Session",
+          "date": "Wednesday, April 23, 2025",
+          "time": "12:30pm - 1:45pm EDT",
+          "location": "LC-21"
+        },
+        {
+          "name": "Showcase: LARA x Kate Bartlett",
+          "date": "Wednesday, April 23, 2025",
+          "time": "12:30pm - 1:45pm EDT",
+          "location": "KMC 1-100 (Gardner Commons)"
+        }
+    ]
+}
